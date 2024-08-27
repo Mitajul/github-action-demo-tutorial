@@ -9,4 +9,4 @@ jobs:
       - uses: actions/checkout@v3
 
       - name: Running a sample github actions 
-      - run: echo "This workflow will run as well"
+      - run: echo "This workflow will run as well v2"
