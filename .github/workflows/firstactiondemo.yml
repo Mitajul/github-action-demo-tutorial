@@ -36,4 +36,5 @@ jobs:
           echo test, and deploy your project.
           echo "this is a sample text file">> test1.txt
           echo "This is 2nd file">>test2.txt
+          echo "this is 3rd workflow file">>test3.txt
           ls -ltr
